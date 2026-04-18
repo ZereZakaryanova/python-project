@@ -1,3 +1,30 @@
+# 📊 Data Analysis (Python)
+
+## 📌 Project Overview
+Анализ данных с использованием Python для выявления закономерностей и визуализации результатов.
+
+## 🛠 Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## 📊 What was done
+- Data loading and exploration
+- Data cleaning and preprocessing
+- Analysis of key metrics
+- Data visualization
+
+## 💡 Insights
+- Выявлены основные тренды в данных
+- Найдены зависимости между показателями
+- Построены графики для анализа
+
+## 📎 Dataset
+Учебный датасет
+
+
 # 📊 Анализ данных (Python)
 
 ## 📌 Задача
